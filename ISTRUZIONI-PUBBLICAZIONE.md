@@ -66,7 +66,7 @@ Usala se vuoi il sito su un dominio “statico” e l’API altrove.
 
 ### 5) API in produzione
 
-Le route principali sono **`/api/weather/...`** (ricerca città + meteo) e **`/api/health`** (controllo rapido).
+Le route principali sono **`GET /api/meteo/citta?city=...`** (ricerca città + meteo) e **`/api/health`** (controllo rapido).
 
 - Stesso dominio del backend: richieste a `/api/...` (relative).
 - Frontend su altro dominio: richieste a `https://tuo-backend/api/...` (assoluto, da `config.js`).

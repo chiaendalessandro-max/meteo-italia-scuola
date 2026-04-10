@@ -1,11 +1,8 @@
-### Sostituisci @host con l'URL pubblico del backend dopo il deploy (es. https://xxx.azurewebsites.net)
+### Sostituisci @host con l'URL pubblico del backend dopo il deploy (es. https://xxx.onrender.com)
 @host = https://TUO-BACKEND-PUBBLICO
 
 ### Health
 GET {{host}}/api/health
 
-### Meteo (coordinate approssimative Milano)
-GET {{host}}/api/weather/current?lat=45.46&lon=9.19&label=Milano
-
-### Ricerca città
-GET {{host}}/api/weather/city?name=Firenze
+### Meteo per città (Italia)
+GET {{host}}/api/meteo/citta?city=Roma

@@ -14,9 +14,6 @@ C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\Me
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\MeteoItalia.Api.csproj.CoreCompileInputs.cache
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\MeteoItalia.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\scopedcss\bundle\MeteoItalia.Api.styles.css
-C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\gwgv8qj6ad-ehku87b269.gz
-C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\vvdzitwii5-yy1arjaxue.gz
-C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\v7y49dn1na-c02s1sie75.gz
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\gdxr549k20-varesgl3va.gz
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\staticwebassets.development.json
@@ -32,3 +29,7 @@ C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\re
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\MeteoItalia.Api.pdb
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\MeteoItalia.Api.genruntimeconfig.cache
 C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\ref\MeteoItalia.Api.dll
+C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\MeteoItalia.Api.sourcelink.json
+C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\gwgv8qj6ad-y19cxml6to.gz
+C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\vvdzitwii5-3k1hf8ctia.gz
+C:\Users\chiae\Desktop\MeteoItalia\backend\MeteoItalia.Api\obj\Release\net9.0\compressed\v7y49dn1na-86dexckd15.gz

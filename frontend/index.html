@@ -3,27 +3,67 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Meteo Semplice</title>
+  <title>Meteo Neon — Italia</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <main class="container">
-    <h1>Meteo Semplice</h1>
-    <p class="small-text">Scrivi una citta italiana e premi Cerca.</p>
+  <div class="bg-grid" aria-hidden="true"></div>
+  <div class="glow-orb glow-orb--1" aria-hidden="true"></div>
+  <div class="glow-orb glow-orb--2" aria-hidden="true"></div>
 
-    <form id="search-form" class="search-box">
-      <input id="city-input" type="search" placeholder="Es: Roma" minlength="2" required />
-      <button type="submit">Cerca</button>
-    </form>
+  <main class="page">
+    <header class="hero">
+      <p class="hero__badge">HTML · CSS · JavaScript</p>
+      <h1 class="hero__title">Meteo <span class="text-neon-cyan">Neon</span></h1>
+      <p class="hero__subtitle">Cerca una città italiana e guarda il meteo in tempo reale.</p>
+    </header>
 
-    <p id="message-box" class="message"></p>
+    <section class="card card--search">
+      <form id="search-form" class="search">
+        <label class="search__label" for="city-input">Città</label>
+        <div class="search__row">
+          <input
+            id="city-input"
+            class="search__input"
+            type="search"
+            placeholder="Es. Roma, Napoli, Torino…"
+            minlength="2"
+            autocomplete="off"
+            required
+          />
+          <button type="submit" class="btn btn--primary">Cerca</button>
+        </div>
+      </form>
+      <p id="message-box" class="feedback" role="status"></p>
+    </section>
 
-    <section id="weather-box" class="card hidden">
-      <h2 id="city-name">-</h2>
-      <p id="description">-</p>
-      <p><strong>Temperatura:</strong> <span id="temperature">-</span></p>
-      <p><strong>Umidita:</strong> <span id="humidity">-</span></p>
-      <p><strong>Vento:</strong> <span id="wind">-</span></p>
+    <section id="weather-box" class="card card--weather hidden" aria-live="polite">
+      <div class="weather__head">
+        <span id="weather-icon" class="weather__emoji" aria-hidden="true">✨</span>
+        <div>
+          <h2 id="city-name" class="weather__city glow-text">—</h2>
+          <p id="description" class="weather__desc">—</p>
+        </div>
+      </div>
+      <div class="weather__grid">
+        <div class="stat">
+          <span class="stat__label">Temperatura</span>
+          <strong id="temperature" class="stat__value text-neon-cyan">—</strong>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Percepita</span>
+          <strong id="feels" class="stat__value text-neon-purple">—</strong>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Umidità</span>
+          <strong id="humidity" class="stat__value text-neon-green">—</strong>
+        </div>
+        <div class="stat">
+          <span class="stat__label">Vento</span>
+          <strong id="wind" class="stat__value text-neon-cyan">—</strong>
+        </div>
+      </div>
+      <p id="short-forecast" class="weather__forecast"></p>
     </section>
   </main>
 

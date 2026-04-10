@@ -34,7 +34,7 @@ Cartella principale: `MeteoItalia/`
 
 - `backend/MeteoItalia.Api/`
   - `Program.cs`: avvio del server C# e impostazioni base (API + file statici)
-  - `Controllers/WeatherController.cs`: “punti di ingresso” delle richieste `/api/weather/...`
+  - `Program.cs`: endpoint **Minimal API** (es. `GET /api/meteo/citta?city=...`)
   - `Services/`: codice che parla con i servizi esterni (meteo e ricerca città)
   - `DTOs/`: modelli di dati semplici (come “schede” con campi)
   - `wwwroot/`: copia del sito (HTML/CSS/JS) servita dallo stesso backend (utile per avere **un solo link**)
@@ -53,7 +53,7 @@ La pagina mostra il modulo di ricerca.
 
 ### Quando cerchi una città
 1) Il JavaScript legge il nome scritto nella casella.
-2) Chiama il backend: `/api/weather/city?name=...`
+2) Chiama il backend: `/api/meteo/citta?city=...`
 3) Il backend:
    - cerca la città in Italia e ottiene **latitudine e longitudine**
    - chiede il meteo per quelle coordinate
