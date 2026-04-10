@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meteo Semplice</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Meteo Semplice</h1>
+    <p class="small-text">Scrivi una citta italiana e premi Cerca.</p>
+
+    <form id="search-form" class="search-box">
+      <input id="city-input" type="search" placeholder="Es: Roma" minlength="2" required />
+      <button type="submit">Cerca</button>
+    </form>
+
+    <p id="message-box" class="message"></p>
+
+    <section id="weather-box" class="card hidden">
+      <h2 id="city-name">-</h2>
+      <p id="description">-</p>
+      <p><strong>Temperatura:</strong> <span id="temperature">-</span></p>
+      <p><strong>Umidita:</strong> <span id="humidity">-</span></p>
+      <p><strong>Vento:</strong> <span id="wind">-</span></p>
+    </section>
+  </main>
+
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

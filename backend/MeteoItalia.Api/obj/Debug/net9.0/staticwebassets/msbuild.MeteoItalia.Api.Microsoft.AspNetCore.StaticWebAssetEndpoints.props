@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:19:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/css/style.ehku87b269.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ehku87b269"},{"Name":"integrity","Value":"sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="},{"Name":"label","Value":"_content/MeteoItalia.Api/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"972"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:19:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ei\u002BoXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1076"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ei\u002BoXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:18:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/index.yy1arjaxue.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yy1arjaxue"},{"Name":"integrity","Value":"sha256-ei\u002BoXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="},{"Name":"label","Value":"_content/MeteoItalia.Api/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1076"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ei\u002BoXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:18:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/js/app.c02s1sie75.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c02s1sie75"},{"Name":"integrity","Value":"sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="},{"Name":"label","Value":"_content/MeteoItalia.Api/js/app.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2050"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:19:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/js/app.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2050"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:19:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/js/config.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"198"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:12:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MeteoItalia.Api/js/config.varesgl3va.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\config.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"varesgl3va"},{"Name":"integrity","Value":"sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="},{"Name":"label","Value":"_content/MeteoItalia.Api/js/config.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"198"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 14:12:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

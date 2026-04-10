@@ -1,0 +1,1382 @@
+{
+  "Version": 1,
+  "Hash": "ZJKcIfBcqCRl5xM49RRaAEp9Ej/SsCZW1GojE2fZB+g=",
+  "Source": "MeteoItalia.Api",
+  "BasePath": "_content/MeteoItalia.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeteoItalia.Api\\wwwroot",
+      "Source": "MeteoItalia.Api",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gdxr549k20-varesgl3va.gz",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "js/config#[.{fingerprint=varesgl3va}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\config.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fdx0u1nk0i",
+      "Integrity": "85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\config.js"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gwgv8qj6ad-ehku87b269.gz",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "css/style#[.{fingerprint=ehku87b269}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x05x561ocn",
+      "Integrity": "T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\v7y49dn1na-c02s1sie75.gz",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "js/app#[.{fingerprint=c02s1sie75}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oj2rerqbxg",
+      "Integrity": "XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\vvdzitwii5-yy1arjaxue.gz",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "index#[.{fingerprint=yy1arjaxue}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "n7rhy7v5gn",
+      "Integrity": "/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\css\\style.css",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehku87b269",
+      "Integrity": "MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\index.html",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yy1arjaxue",
+      "Integrity": "ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\app.js",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c02s1sie75",
+      "Integrity": "LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\config.js",
+      "SourceId": "MeteoItalia.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\",
+      "BasePath": "_content/MeteoItalia.Api",
+      "RelativePath": "js/config#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "varesgl3va",
+      "Integrity": "t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\config.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gwgv8qj6ad-ehku87b269.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gwgv8qj6ad-ehku87b269.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ehku87b269.css",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gwgv8qj6ad-ehku87b269.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002304147465"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehku87b269"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ehku87b269.css",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehku87b269"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MnfJly7HH2YtBXyXWOGe0M0/Zz0BccnEss52wEj1S4o="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ehku87b269.css.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gwgv8qj6ad-ehku87b269.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehku87b269"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1t7UjHjYHyccP2MWW58n1usrgKku2iPoJCsywRzSNg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\vvdzitwii5-yy1arjaxue.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\vvdzitwii5-yy1arjaxue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo="
+        }
+      ]
+    },
+    {
+      "Route": "index.yy1arjaxue.html",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\vvdzitwii5-yy1arjaxue.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yy1arjaxue"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="
+        }
+      ]
+    },
+    {
+      "Route": "index.yy1arjaxue.html",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yy1arjaxue"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ei+oXQRnd2k46darjMlt0auMy1JPiRMtkQDYBacmgP4="
+        }
+      ]
+    },
+    {
+      "Route": "index.yy1arjaxue.html.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\vvdzitwii5-yy1arjaxue.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:18:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yy1arjaxue"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/U07OAT7qfTvutpb7JGQN7mZLwE8iSqosW9QACInilo="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.c02s1sie75.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\v7y49dn1na-c02s1sie75.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001219512195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c02s1sie75"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.c02s1sie75.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c02s1sie75"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.c02s1sie75.js.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\v7y49dn1na-c02s1sie75.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c02s1sie75"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\v7y49dn1na-c02s1sie75.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001219512195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2050"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LCq5Xc8LNEowJyfeTul8vbkgR7QomMYhkr7Cur8zqkE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\v7y49dn1na-c02s1sie75.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:19:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XEChJGS7wYvNzJWocXlAQbcThDeEuKxFx67XxiW0vqc="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gdxr549k20-varesgl3va.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005524861878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.js.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gdxr549k20-varesgl3va.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.varesgl3va.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gdxr549k20-varesgl3va.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005524861878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "varesgl3va"
+        },
+        {
+          "Name": "label",
+          "Value": "js/config.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.varesgl3va.js",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\wwwroot\\js\\config.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "varesgl3va"
+        },
+        {
+          "Name": "label",
+          "Value": "js/config.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t23AXqxyZ/UZgLXxSuqewSz0BPITq8D2oVFuNo9Qfzg="
+        }
+      ]
+    },
+    {
+      "Route": "js/config.varesgl3va.js.gz",
+      "AssetFile": "C:\\Users\\chiae\\Desktop\\MeteoItalia\\backend\\MeteoItalia.Api\\obj\\Release\\net9.0\\compressed\\gdxr549k20-varesgl3va.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Apr 2026 14:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "varesgl3va"
+        },
+        {
+          "Name": "label",
+          "Value": "js/config.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-85r7K2gFlMopMrj7zR5l/1sZZMFUHc0HrKSUgI2YRhY="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Render Blueprint (opzionale): collega il repo e usa Dockerfile in backend/MeteoItalia.Api
+services:
+  - type: web
+    name: meteoitalia-api
+    runtime: docker
+    dockerfilePath: ./backend/MeteoItalia.Api/Dockerfile
+    dockerContext: ./backend/MeteoItalia.Api
+    plan: free
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production

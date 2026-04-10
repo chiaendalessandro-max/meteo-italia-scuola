@@ -1,0 +1,11 @@
+# Netlify: cartella di pubblicazione = questa cartella frontend (dopo aver impostato js/config.js)
+[build]
+  publish = "."
+  # Nessun build step; opzionale: comando che genera config da variabile ambiente
+  # command = "echo \"window.METEO_API_BASE='${METEO_API_URL}';\" > js/config.js"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
